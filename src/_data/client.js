@@ -9,7 +9,7 @@ module.exports = {
         "city": "Albuquerque ",
         "state": "NM",
         "zip": "87111",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+        "mapLink": "https://maps.app.goo.gl/EBKpjv8A9KZFRyjZ8"
     },
     "socials": {
         "facebook": "https://www.facebook.com/",
